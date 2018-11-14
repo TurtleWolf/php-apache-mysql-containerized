@@ -1,4 +1,11 @@
-Containerize This: PHP/Apache/MySQL
+1. PHP using root credentials
+1. hardcoded/weak MySQL password
+1. lack of SSL
+1. ##### to name a few?
+1. ## phpMyAdmin      (for dev)
+1. ## MySQL Workbench (for dev)
+
+[Containerize This: PHP/Apache/MySQL](https://www.cloudreach.com/blog/containerize-this-php-apache-mysql-within-docker-containers/# "How to use PHP, Apache, MySQL within Docker containers")
 ===================================
 
 ### Intro
